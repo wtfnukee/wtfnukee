@@ -4,6 +4,6 @@
 
 - Currently learning statistics and doing some data science.
 
-- Practicing problem solving at Codewars. ![Codewars](https://www.codewars.com/users/wtfnukee/badges/micro)
+- Practicing problem solving at Codewars. ![Codewars](https://www.codewars.com/users/foldl/badges/micro)
 
 ![wtfnukee's github stats](https://github-readme-stats.vercel.app/api?username=wtfnukee&theme=tokyonight&count_private=true)
